@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>童童的个人简历</title>
+    <link>https://tongtong96.github.io/</link>
+      <atom:link href="https://tongtong96.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>童童的个人简历</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongtong96.github.io/media/icon_hue9858683de1f57ccdb3d5b4e93b28b6b_10213_512x512_fill_lanczos_center_3.png</url>
+      <title>童童的个人简历</title>
+      <link>https://tongtong96.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://tongtong96.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongtong96.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

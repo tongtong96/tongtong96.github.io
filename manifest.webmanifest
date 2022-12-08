@@ -1,0 +1,18 @@
+{
+  "name": "童童的个人简历",
+  "short_name": "童童的个人简历",
+  "lang": "zh-Hans",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hue9858683de1f57ccdb3d5b4e93b28b6b_10213_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hue9858683de1f57ccdb3d5b4e93b28b6b_10213_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
